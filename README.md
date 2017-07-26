@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+This project was to setup a portfolio of someone random and add styling to it.  The majority of this was just to validate knowledge of React Router functionality and making sure the 'back' button will work using this.
+
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
